@@ -1,0 +1,10 @@
+.gitattributes
+.git/
+.git
+*.md
+.github/
+build/
+
+Dockerfile-*
+.gitignore
+.dockerignore
